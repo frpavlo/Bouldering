@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+.header {
+    margin-bottom: 75px;
+}
+.header-img {
+    margin-bottom: 25px;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+}
+.nav-link {
+    font-size: 24px;
+    border-bottom: 5px solid black;
+}
+.main-title {
+    font-size: 64px;
+    text-align: center;
+}
+.main-img {
+    margin: 50px 75px 55px;
+    border-left: 10px dotted black;
+}
+.main-info {
+    font-size: 24px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 21px 18px 10px 22px;
+}
+.footer {
+    background-color: black;
+    padding: 15px;
+}
+.footer p {
+    padding: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+}
